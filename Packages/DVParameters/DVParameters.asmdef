@@ -1,0 +1,17 @@
+{
+    "name": "DVParameters",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e7d6513d4619e9a4f941a0d8d9aedf0a",
+        "GUID:b8d40467b9e5b684c9ae82212d271a0b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

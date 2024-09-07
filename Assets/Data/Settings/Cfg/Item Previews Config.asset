@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24134c67f4da24d42a2a84f9f5b7855d, type: 3}
+  m_Name: Item Previews Config
+  m_EditorClassIdentifier: 
+  ItemPreviews:
+  - Item: {fileID: 11400000, guid: 927f76e97f68a0e43b81921e87c9253d, type: 2}
+    Icon: {fileID: 21300000, guid: 74ed7df1821c9744abe459e1edaa2df6, type: 3}
+  - Item: {fileID: 11400000, guid: c26053a8c17910049a8a9fedd4414dbe, type: 2}
+    Icon: {fileID: 21300000, guid: 19e76356ef8398b4785602993f644f89, type: 3}
+  - Item: {fileID: 11400000, guid: 7e465a82ef6936d4c94d764bb999cded, type: 2}
+    Icon: {fileID: 21300000, guid: 2b082bc885e1a564f90fb4d98a509293, type: 3}
+  - Item: {fileID: 11400000, guid: 4f4df66d209292f46bec822468a7cc31, type: 2}
+    Icon: {fileID: 21300000, guid: 10a0bf27598fa7b46a92eaa2bd93fad5, type: 3}
+  - Item: {fileID: 11400000, guid: 1cbb7d0f29c226a44aadb3a3d886ccfe, type: 2}
+    Icon: {fileID: 21300000, guid: 2923e57d4c8c020438b7e0d96fd01a8c, type: 3}
